@@ -1,0 +1,29 @@
+html {
+font-family: serif;
+text-align: center;
+background-color: gray;
+font-size: 180%;
+}
+
+.title1 {
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+header {
+    color: black;
+    font-size: 60px;
+}
+footer{
+    background: #432;
+    padding: 26px 0;
+}
+.aaaaa{
+    font-size: 40px;
+}
+.midasi{
+    font-size: 60px;
+}
+.midasi2{
+    font-size: 60px;
+}
